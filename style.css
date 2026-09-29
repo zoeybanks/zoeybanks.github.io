@@ -1,0 +1,36 @@
+html {
+    width: 100%;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(background.jpg);
+}
+
+h1 {
+    margin: 15px auto;
+    font-size: 45px;
+    white-space: nowrap;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #2a2a2a;
+    border-radius: 8px;
+}
+
+#main {
+    min-width: 470px;
+    margin: 30px auto;
+    padding: 20px;
+    width: 60%;
+    background-color: #5bc0de;
+    border-radius: 14px;
+    border: 1px solid #e3e3e3;
+}
+
+.content {
+    display: table;
+    margin: 10px auto;
+}
